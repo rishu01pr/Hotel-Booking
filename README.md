@@ -34,16 +34,7 @@ The dataset used in this analysis contains information about hotel bookings, inc
 - [hotel_booking_analysis.ipynb]: Jupyter Notebook with Python code and analysis.
 - [hotel_booking_data.csv]: The dataset used for analysis.
 - [hotel_booking_analysis_report.pdf]: A comprehensive report summarizing findings and insights.
-## Project Structure
 
-- [hotel_booking_analysis.ipynb]: Jupyter Notebook with Python code and analysis.
-- [hotel_booking_data.csv]: The dataset used for analysis.
-- [hotel_booking_analysis_report.pdf]: A comprehensive report summarizing findings and insights.
-## Project Structure
-
-- [hotel_booking_analysis.ipynb]: Jupyter Notebook with Python code and analysis.
-- [hotel_booking_data.csv]: The dataset used for analysis.
-- [hotel_booking_analysis_report.pdf]: A comprehensive report summarizing findings and insights.
 ## 🛠 Skills
 Python...(Jupyter Notebook)
 
